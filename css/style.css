@@ -30,8 +30,8 @@ h1, h2 {
 }
 
 /*CONTENT*/
-.content {
-    
+.github {
+    width: 20px;
 }
 .content .featured {
     background-image: url("../images/featured.jpg");
